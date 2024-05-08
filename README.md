@@ -24,7 +24,12 @@ Various models for sentiment analysis are available in the code folder, includin
 
 
 ## Citation
-If you use this dataset in your research or project, please consider citing [insert citation here].
+If you use this dataset in your research or project, please consider citing the dataset as follows:
+
+**Dataset Name:** HSAC  
+**Repository Name:** A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews  
+**URL:** [https://github.com/Nikhil5555/A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews](https://github.com/Nikhil5555/A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews)
+
 
 ## Additional Information
 For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the [report](./report.pdf). If you have any further questions or need assistance, feel free to reach out.
