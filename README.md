@@ -21,19 +21,16 @@ Folder contains the train and test data files. This dataset comprises training a
 ## Models
 Various models for sentiment analysis are available in the code folder, including Support Vector Machine (SVM), Decision Tree, Naive Bayes, Feedforward Neural Network (FFNN), and Long Short-Term Memory (LSTM). The code files contain the implementation of each model, and the file paths are structured according to our Kaggle notebook setup. For LSTM, pre-trained Hindi embeddings from [IndicNLP](https://drive.google.com/file/d/1g5_dJFI3Sevwi-YMPU67x2jnN-_JzZX6/view?usp=sharing) are utilized. Additionally, the Elmo method is employed to create embeddings specific to our dataset, which are then utilized in the LSTM task.
 
+## Additional Information
+For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the [report](./Report.pdf). If you have any further questions or need assistance, feel free to reach out.
 
 
 ## Citation
 If you use this dataset in your research or project, please consider citing the dataset as follows:
-
-
-
-## Additional Information
-For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the [report](./Report.pdf). If you have any further questions or need assistance, feel free to reach out.
-
 **Dataset Name:** HSAC  
 **Repository Name:** A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews  
 **URL:** [https://github.com/Nikhil5555/A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews](https://github.com/Nikhil5555/A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews)
+
 ## Contributors
 - Nikhil Khemchandani (nikhilkhemchandani5@gmail.com or nikhil.khemchandani@students.iiit.ac.in)
 - Udrasht Pal (udrashtpal@gmail.com or udrasht.pal@students.iiit.ac.in)
