@@ -18,7 +18,9 @@ Folder contains the train and test data files. This dataset comprises training a
 2. **Test Data:** Evaluate the performance of trained models using the provided test data.
 
 ## Models
-Various models for sentiment analysis are available in the code folder, including Support Vector Machine (SVM), Decision Tree, Naive Bayes, Feedforward Neural Network (FFNN), and Long Short-Term Memory (LSTM). The code files contain the implementation of each model, and the file paths are structured according to our Kaggle notebook setup. For LSTM, pre-trained Hindi embeddings from IndicNLP are utilized. Additionally, the Elmo method is employed to create embeddings specific to our dataset, which are then utilized in the LSTM task.
+## Models
+Various models for sentiment analysis are available in the code folder, including Support Vector Machine (SVM), Decision Tree, Naive Bayes, Feedforward Neural Network (FFNN), and Long Short-Term Memory (LSTM). The code files contain the implementation of each model, and the file paths are structured according to our Kaggle notebook setup. For LSTM, pre-trained Hindi embeddings from [IndicNLP](https://drive.google.com/file/d/1g5_dJFI3Sevwi-YMPU67x2jnN-_JzZX6/view?usp=sharing) are utilized. Additionally, the Elmo method is employed to create embeddings specific to our dataset, which are then utilized in the LSTM task.
+
 
 
 ## Citation
